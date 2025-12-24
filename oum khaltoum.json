@@ -4,7 +4,7 @@
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
     "ad_banner" : "ironsource",
-    "ad_inter" : "ironsource",
+    "ad_inter" : "applovin_max",
     "ad_native" : "ironsource",
     "openapp" : "ironsource",
     "back_up" : "none",
@@ -23,7 +23,7 @@
     
 	"MAX": {
 	  "banner":"2965c66e51e81699",
-	  "interstitial":"61a23d63d2461798",
+	  "interstitial":"a4b9cc73ce3b61b4",
 	  "native": "c6258babf97ca328",
 	  "appopen" : "d1ac3378c8713d81"
 	},
@@ -43,7 +43,7 @@
     
     "Applovin": {
       "banner": "be13788b9f2afee5",
-      "interstitial": "1f5e603ebdfc8580"
+      "interstitial": "a4b9cc73ce3b61b4"
     },
     
     "StartApp" :{
@@ -51,6 +51,7 @@
     }
   }
 }
+
 
 
 
