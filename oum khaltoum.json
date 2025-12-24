@@ -3,10 +3,10 @@
     "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "ironsource",
-    "ad_inter" : "applovin_max",
-    "ad_native" : "applovin_max",
-    "openapp" : "ironsource",
+    "ad_banner" : "startapp",
+    "ad_inter" : "startapp",
+    "ad_native" : "startapp",
+    "openapp" : "startapp",
     "back_up" : "none",
     "ad_interval" : 3 ,
     
@@ -47,10 +47,11 @@
     },
     
     "StartApp" :{
-        "app_id" : "0"
+        "app_id" : "211603563"
     }
   }
 }
+
 
 
 
